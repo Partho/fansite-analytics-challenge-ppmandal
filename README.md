@@ -43,7 +43,7 @@ The system used for building, and testing runtime is Macbook Pro 2015, 8GB RAM, 
 
 These files don't make use of any external libraries. Compatible python version is >= 2.7. 
 
-All the scripts can be invoked by running the run.sh on the root directory. Ensure that permisssions are set.
+All the scripts can be invoked by running `run.sh` on the root directory. Ensure that permisssions are set.
 Changes can be made to this script file to set your input and output path. 
 
 For more information on the coding-challenge check out https://github.com/InsightDataScience/fansite-analytics-challenge
