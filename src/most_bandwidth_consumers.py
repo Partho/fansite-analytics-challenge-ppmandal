@@ -40,8 +40,7 @@ def top_k_consumers(URI_byte_counter, k=10):
     # In case no. of hosts is less than specified k
     k = min(k, len(URI_byte_counter))
 
-    # Since there's no max-heap implementation in Python,
-    # so we use min-heap with storing negative values
+    # Push the elements in dictionary to heap
     for URI, byte in URI_byte_counter.iteritems():
         heap.add(URI, byte)
 
