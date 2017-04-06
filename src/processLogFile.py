@@ -1,7 +1,5 @@
 '''
-This class reads the log line by line and stores
-the log data as list of tuples in RAM so that
-the data will have faster access time.
+This class reads the log line returns tokenized tuple.
 '''
 
 import re
