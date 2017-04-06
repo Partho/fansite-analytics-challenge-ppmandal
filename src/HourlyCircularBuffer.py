@@ -35,7 +35,7 @@ class HourlyCircularBuffer:
         # Store the previous value of buffer at that timestamp
         # to update the times_site_accessed. Will see the usage 
         # later in code
-        self.old_timestamp = None,
+        self.old_timestamp = None
         self.old_freq = None
 
     
