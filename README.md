@@ -28,7 +28,7 @@ I will kindly request to please look at my approach for implementing circular bu
 
 
 ## Benchmark
-The system used for building, and testing runtime is Macbook Pro 2015, 8GB RAM, i5 dual-core processor. These are times taken for ~450 MB input log file. However, these times will vary by time and system, but gives an general idea about the average runtime.
+The system used for building scripts, and testing runtime is Macbook Pro 2015, 8GB RAM, i5 dual-core processor. These are times taken for ~450 MB input log file. However, these times will vary by time and system, but gives an general idea about the average runtime.
 
 * **Feature 1 :** 40.634 seconds
 
