@@ -24,11 +24,11 @@ These scripts also show the runtime for various stages like running algo, extrac
 
 I have implemented feature 3 using circular buffer. The buffer works well for smaller log files, even for log files with entries more than 10,000 lines. However, the output messes completely for the ~450 MB input log file and gives wrong count output (doesn't scale well). 
 
-I will kindly request to please look at my approach for implementing circular buffer, grade based on that as well, and also suggest improvements.
+I will kindly request the reviewer to please look at my approach for implementing circular buffer and suggest improvements.
 
 
 ## Benchmark
-The system used for building scripts, and testing runtime is Macbook Pro 2015, 8GB RAM, i5 dual-core processor. These are times taken for ~450 MB input log file. However, these times will vary by time and system, but gives an general idea about the average runtime.
+The system used for building scripts, and testing runtime is Macbook Pro 2015, 8GB RAM, i5 dual-core processor. These are times taken for ~450 MB input log file. However, these times will vary by time and system, but gives a general idea about the average runtime.
 
 * **Feature 1 :** 40.634 seconds
 
