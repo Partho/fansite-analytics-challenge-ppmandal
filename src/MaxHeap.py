@@ -5,7 +5,7 @@ import heapq
 
 class MaxHeap:
     def __init__(self):
-        # There is no max-heap implementation in Python's standrad library
+        # There is no max-heap implementation in Python's standard library
         # So it is based on min-heap with storing negative values
         self.max_heap = []
 
