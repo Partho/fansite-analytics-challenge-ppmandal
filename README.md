@@ -1,7 +1,7 @@
 # Insight-Coding-Challenge
-##Insight Data Engineering - Coding Challenge 
-Application for April 2017
-#####Submitted by: Partho Pratim Mandal
+
+#### Insight Data Engineering - Coding Challenge (April 2017 )
+##### Submitted by: Partho Pratim Mandal
 
 ## Description of src folder
 
