@@ -1,4 +1,4 @@
-# Insight-Coding-Challenge
+# Insight Coding Challenge
 
 #### Insight Data Engineering - Coding Challenge (April 2017 )
 ##### Submitted by: Partho Pratim Mandal
