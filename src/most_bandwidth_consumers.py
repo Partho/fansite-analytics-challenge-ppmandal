@@ -33,7 +33,7 @@ def URI_bytes_table(file_path):
 
 
 # Use max-heap to extract top k resources consuming most bandwidth
-# O(n + k logn) time complexity 
+# O(n + klogn) time complexity 
 def top_k_consumers(URI_byte_counter, k=10):
     
     heap = MaxHeap()
