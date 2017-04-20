@@ -17,7 +17,7 @@ class MaxHeap:
         heapq.heappush(self.max_heap, (-value, key))
 
     # Extract top-k elements in heap
-    # O(k+(n-k)lgk) time complexity
+    # O(n + klogn) time complexity
     # where n is elements in self.max_heap
     def extract_k_largest(self, k):
         while self.max_heap and k > 0:
